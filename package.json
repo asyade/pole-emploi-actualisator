@@ -1,0 +1,14 @@
+{
+  "name": "pe-auto-refresh",
+  "version": "1.0.0",
+  "description": "S'occupe d'actualiser votre situation pole emploie automatiquement :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1"
+  }
+}
